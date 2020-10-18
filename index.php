@@ -31,7 +31,7 @@ file_exists('autoload.php') ? require_once('autoload.php') : die('error : autolo
 |
 */
 
-$data_source_path = 'http://localhost/exp_calculator_app_imran/jsondata.json';
+$data_source_path = 'http://i4reactor.com/expense_calculator/jsondata.json';
 
 
 /*
