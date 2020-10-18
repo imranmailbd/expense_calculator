@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ireactor/public_html/expense_calculator
+    - /bin/cp -r * $DEPLOYPATH
